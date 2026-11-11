@@ -1,11 +1,17 @@
 settings:
-  ruta_raiz: f:\06 proyectos git\Struct_Proj_dsc
-  ruta_data_pro: f:\06 proyectos git\Struct_Proj_dsc\Data\procesed
-  ruta_data_final: f:\06 proyectos git\Struct_Proj_dsc\Data\Final
-  ruta_data_raw: f:\06 proyectos git\Struct_Proj_dsc\Data\raw
-  ruta_src: f:\06 proyectos git\Struct_Proj_dsc\src
-  ruta_models: f:\06 proyectos git\Struct_Proj_dsc\models
-  user: USRLAB
-  pass: Sm5G$
+  ruta_raiz: c:\Users\Alberto\Desktop\Ing. Estadística\cursos importantes\Ciencia
+    de datos (DENIS)\S3\exp_proyecto_prueba
+  ruta_data_pro: c:\Users\Alberto\Desktop\Ing. Estadística\cursos importantes\Ciencia
+    de datos (DENIS)\S3\exp_proyecto_prueba\Data\procesed
+  ruta_data_final: c:\Users\Alberto\Desktop\Ing. Estadística\cursos importantes\Ciencia
+    de datos (DENIS)\S3\exp_proyecto_prueba\Data\Final
+  ruta_data_raw: c:\Users\Alberto\Desktop\Ing. Estadística\cursos importantes\Ciencia
+    de datos (DENIS)\S3\exp_proyecto_prueba\Data\raw
+  ruta_src: c:\Users\Alberto\Desktop\Ing. Estadística\cursos importantes\Ciencia de
+    datos (DENIS)\S3\exp_proyecto_prueba\src
+  ruta_models: c:\Users\Alberto\Desktop\Ing. Estadística\cursos importantes\Ciencia
+    de datos (DENIS)\S3\exp_proyecto_prueba\models
+  user: USRLABEXA
+  pass: Sm5G$y1j
   features:
   - lista variables
